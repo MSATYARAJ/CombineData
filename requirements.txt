@@ -1,4 +1,3 @@
 CalamineWorkbook
 xlsxwriter
 streamlit
-pandas
